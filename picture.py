@@ -40,6 +40,8 @@ rectangle = RectangleAsset(50, 20, thinline, blue)
 
 # Now display a rectangle
 Sprite(rectangle)
+rectangle.scale =10;
+
 
 # add your code here /\  /\  /\
 
